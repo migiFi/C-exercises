@@ -1,6 +1,6 @@
 # C Exercises
 
-💿 This repository contains the solutions to basic C programming exercises.
+This repository contains the solutions to basic C programming exercises.
 
 ### Table of content
 
